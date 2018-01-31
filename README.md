@@ -1,1 +1,2 @@
 # ashcool
+Hello world!
